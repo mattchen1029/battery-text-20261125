@@ -1,8 +1,8 @@
-[![Competition](https://make.fun/badge/competition/u-alven-the-battery-s-last-text-to-its-charger-4278cfab)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?ref=r2d6z7t8)
-[![Rank](https://make.fun/badge/rank/mattchen1029/battery-text-20261125)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?ref=r2d6z7t8)
-[![Reward](https://make.fun/badge/reward/u-alven-the-battery-s-last-text-to-its-charger-4278cfab)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?ref=r2d6z7t8)
+# battery-text-20261125
 
-# The Battery's Last Text to Its Charger
+[![make.fun · u-alven-the-battery-s-last-text-to-its-charger-4278cfab](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
+[![rank](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/mattchen1029/battery-text-20261125/rank.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
+[![reward](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/mattchen1029/battery-text-20261125/reward.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
 
 An entry for the [make.fun bounty "The Battery's Last Text to Its Charger"](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?ref=r2d6z7t8).
 
